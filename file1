@@ -1,0 +1,9 @@
+//new file
+let name = 'sam';
+let age = 16;
+let person = {
+name = 'sam'
+age = 16
+};
+if person.name = sam (
+alert( 'hello' );
